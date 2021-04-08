@@ -1,7 +1,8 @@
 ## yo my name is saksham smh
-<br>
-https://github-readme-stats.vercel.app/api?username=Saksham4106
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Saksham4106's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saksham4106)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **saksham4106/saksham4106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
